@@ -1,0 +1,4 @@
+Downloaded 2026-11-15 17:26 around 19:41:18.0 +40:11:19.6, r = 32.98 arcmin, no row limit
+ps1.csv            145,273 rows  PS1 DR1 (II/349)        from MAST Pan-STARRS DR1 mean-object API
+gaia_dr3.csv        98,057 rows  Gaia DR3 (I/355/gaiadr3) from VizieR (vizier.cfa.harvard.edu)
+cantat_gaudin.csv    1,915 rows  J/A+A/618/A93 (NGC 6819) from VizieR (vizier.cfa.harvard.edu)

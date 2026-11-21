@@ -1,0 +1,26 @@
+# environment and secrets
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# working backups
+_backup_*/
+
+# raw GIT frames (large; needed only for --from-scratch / --ast)
+*.fits
+*.fits.gz
+
+# stale files from the pre-rewrite version
+NGC6819_Final_Report.md
+NGC6819_Final_Report.tex
+reference_catalogs/ps1_dr1.csv
+
+# diagnostic image arrays (regenerated from the FITS frames)
+*.npz
+
+# ML/tracker dirs (not used here, kept for safety)
+wandb/
+checkpoints/
+*.pt
+*.safetensors

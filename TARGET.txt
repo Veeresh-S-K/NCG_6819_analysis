@@ -1,0 +1,7 @@
+Target: open cluster NGC 6819
+Pointing centre (J2000): 19h41m18.0s +40d11m19.6s   (TARRA/TARDEC in each header)
+Telescope: GROWTH-India Telescope (0.7 m), Hanle; field about 46' x 46' at 0.675"/pixel
+Frames: 2 reduced images (bias, flat, cosmic rays and astrometry done):
+  20261012170-258-RA.wcs.proc.fits  r'  180 s  2026-10-12T17:02:58 UTC
+  20261012170-727-RA.wcs.proc.fits  g'  180 s  2026-10-12T17:07:27 UTC
+Zero-point and limiting-magnitude keywords have been removed: calibrating the photometry is part of your project.
